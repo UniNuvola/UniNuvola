@@ -1,0 +1,3 @@
+[submodule "operations"]
+	path = operations
+	url = git@github.com:UniNuvola/operations
