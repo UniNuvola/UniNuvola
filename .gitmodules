@@ -13,3 +13,6 @@
 [submodule "vault"]
 	path = vault
 	url = git@github.com:UniNuvola/vault
+[submodule "quickstart"]
+	path = quickstart
+	url = git@github.com:UniNuvola/quickstart
