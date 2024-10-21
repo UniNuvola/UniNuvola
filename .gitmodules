@@ -10,3 +10,6 @@
 [submodule "redis"]
 	path = redis
 	url = git@github.com:UniNuvola/redis
+[submodule "vault"]
+	path = vault
+	url = git@github.com:UniNuvola/vault
