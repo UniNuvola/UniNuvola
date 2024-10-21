@@ -7,3 +7,6 @@
 [submodule "ldapsyncservice"]
 	path = ldapsyncservice
 	url = git@github.com:UniNuvola/ldapsyncservice
+[submodule "redis"]
+	path = redis
+	url = git@github.com:UniNuvola/redis
