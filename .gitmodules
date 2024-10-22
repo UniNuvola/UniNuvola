@@ -2,17 +2,17 @@
 	path = operations
 	url = git@github.com:UniNuvola/operations
 [submodule "ldapproxy"]
-	path = ldapproxy
+	path = core/ldapproxy
 	url = git@github.com:UniNuvola/ldapproxy
 [submodule "ldapsyncservice"]
-	path = ldapsyncservice
+	path = core/ldapsyncservice
 	url = git@github.com:UniNuvola/ldapsyncservice
 [submodule "redis"]
-	path = redis
+	path = core/redis
 	url = git@github.com:UniNuvola/redis
 [submodule "vault"]
-	path = vault
+	path = core/vault
 	url = git@github.com:UniNuvola/vault
 [submodule "quickstart"]
-	path = quickstart
+	path = docs/quickstart
 	url = git@github.com:UniNuvola/quickstart
