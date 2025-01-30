@@ -16,3 +16,6 @@
 [submodule "quickstart"]
 	path = docs/quickstart
 	url = git@github.com:UniNuvola/quickstart
+[submodule "testing"]
+	path = testing
+	url = git@github.com:UniNuvola/testing.git
