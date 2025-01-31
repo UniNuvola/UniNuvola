@@ -28,3 +28,12 @@
 [submodule "phase2/uninuvola-init"]
 	path = phase2/uninuvola-init
 	url = git@github.com:UniNuvola/uninuvola-init
+[submodule "phase3/k8s"]
+	path = phase3/k8s
+	url = git@github.com:UniNuvola/k8s
+[submodule "images"]
+	path = images
+	url = git@github.com:UniNuvola/images
+[submodule "core/openLDAP"]
+	path = core/openLDAP
+	url = git@github.com:UniNuvola/openLDAP
