@@ -19,3 +19,12 @@
 [submodule "testing"]
 	path = testing
 	url = git@github.com:UniNuvola/testing.git
+[submodule "phase1/ansible"]
+	path = phase1/ansible
+	url = git@github.com:UniNuvola/ansible
+[submodule "core/web"]
+	path = core/web
+	url = git@github.com:UniNuvola/web
+[submodule "phase2/uninuvola-init"]
+	path = phase2/uninuvola-init
+	url = git@github.com:UniNuvola/uninuvola-init
