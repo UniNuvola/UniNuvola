@@ -2,8 +2,10 @@
 
 ## Repo structure:
 
+- `accounting`: Contains the accounting component of the UniNuvola project.
 - `core`: Contains the core components of the UniNuvola project. Each component is a submodule and contains the code and configuration files for the component. This directory is meant to be used as a quick reference to other repositories in the UniNuvola organization.
 - `docs`: Contains the documentation for the project.
+- `images`: Contains the recipes to build the docker images used in the UniNuvola project.
 - `operations`: Contains all the tools and scripts used to manage an UniNuvola cluster.
 - `phase1`: Contains the ansible playbooks to create a kubernetes cluster whit the necessary configurations to deploy the UniNuvola constituents.
 - `phase2`: Contains the scritps to deploy the UniNuvola constituents over the kubernetes cluster.
