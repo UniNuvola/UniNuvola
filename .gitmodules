@@ -46,3 +46,6 @@
 [submodule "accounting"]
 	path = accounting
 	url = git@github.com:UniNuvola/accounting
+[submodule "docs/documentation"]
+	path = docs/documentation
+	url = git@github.com:UniNuvola/documentation
