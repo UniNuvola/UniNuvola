@@ -37,9 +37,6 @@
 [submodule "docs/manuals"]
 	path = docs/manuals
 	url = git@github.com:UniNuvola/manuals
-[submodule "docs/internaldocs"]
-	path = docs/internaldocs
-	url = git@github.com:UniNuvola/internaldocs
 [submodule "accounting"]
 	path = accounting
 	url = git@github.com:UniNuvola/accounting
