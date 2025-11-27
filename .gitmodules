@@ -43,3 +43,9 @@
 [submodule "docs/documentation"]
 	path = docs/documentation
 	url = git@github.com:UniNuvola/documentation
+[submodule "core/influx"]
+	path = core/influx
+	url = git@github.com:UniNuvola/influx
+[submodule "core/promflux"]
+	path = core/promflux
+	url = git@github.com:UniNuvola/promflux
